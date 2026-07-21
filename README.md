@@ -5,6 +5,10 @@ Local AI agent that controls your computer. Give it natural language instruction
 
 Built with Tauri, React, and Rust.
 
+<a href="https://trendshift.io/repositories/21250?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-21250" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/21250/daily?language=Rust" alt="suitedaces%2Fcomputer-agent | Trendshift" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/21250?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-21250" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/21250/weekly?language=Rust" alt="suitedaces%2Fcomputer-agent | Trendshift" width="250" height="55"/></a>
+
+
 ## Demo
 
 https://github.com/user-attachments/assets/8edd92a7-7d3e-472a-9e48-3b561f0257d6
